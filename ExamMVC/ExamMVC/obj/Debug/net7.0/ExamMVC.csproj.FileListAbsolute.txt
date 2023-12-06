@@ -73,3 +73,14 @@ D:\GitHub\MVC\ExamMVC\ExamMVC\obj\Debug\net7.0\refint\ExamMVC.dll
 D:\GitHub\MVC\ExamMVC\ExamMVC\obj\Debug\net7.0\ExamMVC.pdb
 D:\GitHub\MVC\ExamMVC\ExamMVC\obj\Debug\net7.0\ExamMVC.genruntimeconfig.cache
 D:\GitHub\MVC\ExamMVC\ExamMVC\obj\Debug\net7.0\ref\ExamMVC.dll
+D:\GitHub\examMVC\ExamMVC\ExamMVC\obj\Debug\net7.0\ExamMVC.csproj.AssemblyReference.cache
+D:\GitHub\examMVC\ExamMVC\ExamMVC\obj\Debug\net7.0\ExamMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\examMVC\ExamMVC\ExamMVC\obj\Debug\net7.0\ExamMVC.AssemblyInfoInputs.cache
+D:\GitHub\examMVC\ExamMVC\ExamMVC\obj\Debug\net7.0\ExamMVC.AssemblyInfo.cs
+D:\GitHub\examMVC\ExamMVC\ExamMVC\obj\Debug\net7.0\ExamMVC.csproj.CoreCompileInputs.cache
+D:\GitHub\examMVC\ExamMVC\ExamMVC\obj\Debug\net7.0\ExamMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub\examMVC\ExamMVC\ExamMVC\obj\Debug\net7.0\ExamMVC.RazorAssemblyInfo.cache
+D:\GitHub\examMVC\ExamMVC\ExamMVC\obj\Debug\net7.0\ExamMVC.RazorAssemblyInfo.cs
+D:\GitHub\examMVC\ExamMVC\ExamMVC\obj\Debug\net7.0\ExamMVC.dll
+D:\GitHub\examMVC\ExamMVC\ExamMVC\obj\Debug\net7.0\refint\ExamMVC.dll
+D:\GitHub\examMVC\ExamMVC\ExamMVC\obj\Debug\net7.0\ExamMVC.pdb
