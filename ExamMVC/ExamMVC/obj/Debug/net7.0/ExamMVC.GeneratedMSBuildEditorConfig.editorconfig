@@ -16,10 +16,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\GitHub\examMVC\ExamMVC\ExamMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/GitHub/examMVC/ExamMVC/ExamMVC/Views/Department.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/GitHub/examMVC/ExamMVC/ExamMVC/Views/Department/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -30,10 +26,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/GitHub/examMVC/ExamMVC/ExamMVC/Views/Department/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/GitHub/examMVC/ExamMVC/ExamMVC/Views/Employee.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/GitHub/examMVC/ExamMVC/ExamMVC/Views/Employee/Create.cshtml]
